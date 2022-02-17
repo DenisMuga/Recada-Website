@@ -1,6 +1,59 @@
+.Leadership{
+    background-color: rgb(247, 220, 220);
+}
+
 .Leadership h1{
     margin-top: 5%;
     text-align: center;
     color: brown;
-    
+}
+.Leaders{
+    display: inline-block;
+    justify-content: space-between;
+    margin-top: 5%;
+    line-height: 2;
+}
+.card7, .card8, .card9{
+    display: flex;
+}
+.card7 img{
+    width: 35vw;
+    height: 50vh;
+    border-radius: 50%;
+}
+.card7 p{
+    background: rgb(148, 179, 247);
+    border-radius: 15px;
+    color: brown;
+    height: 20vh;
+    margin-top: 7%;  
+}
+.card8 img{
+    width: 35vw;
+    height: 50vh;
+    border-radius: 50%;
+}
+.card8 p{
+    background: rgb(148, 179, 247);
+    border-radius: 15px;
+    color: brown;
+    height: 20vh;
+    margin-top: 8%;
+    column-gap: 10%;
+}
+.card9 img{
+    width: 30vw;
+    height: 50vh;
+    border-radius: 50%;
+}
+.card9 p{
+    background: rgb(148, 179, 247);
+    border-radius: 15px;
+    color: brown;
+    height: 20vh;
+    margin-top: 8%;
+}
+span{
+    color: black;
+    font-size: 30px;
 }
