@@ -59,7 +59,7 @@ a:hover{
     color: purple;    
 }
 .button-43{
-    border-radius: 8%;
+    border-radius: 15px;
     height: 6vh;
     width: 200px;
     border: white;
@@ -67,7 +67,7 @@ a:hover{
     cursor: pointer;
 }
 .button-44{
-    border-radius: 8%;
+    border-radius: 15px;
     height: 6vh;
     width: 200px;
     border: white;
@@ -91,13 +91,13 @@ a:hover{
 }
 .card4{
     border: solid brown;
-    border-radius: 15px;
+    border-radius: 20px;
 
 }
 .card4 img{
     width: 30vw;
     height: 40vh;
-    border-radius: 5%;
+    border-radius: 20px;
 }
 .card4 h4{
     color: brown;
@@ -109,7 +109,7 @@ a:hover{
 }
 .card5{
     border: solid brown;
-    border-radius: 15px;
+    border-radius: 20px;
 }
 .card5 img{
     width: 36vw;
