@@ -64,10 +64,79 @@ a:hover{
     width: 200px;
     border: white;
     margin-top: 5%;
+    cursor: pointer;
 }
 .button-44{
     border-radius: 8%;
     height: 6vh;
     width: 200px;
     border: white;
+    cursor: pointer;
+}
+.Projects-Section {
+    margin-top: 5%;
+    background-color: lightskyblue;
+
+}
+.Projects-Section h1{
+    color: brown;
+    text-align: center;
+}
+.Projects{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    column-gap: 10px;
+}
+.card4{
+    border: solid brown;
+    border-radius: 3%;
+
+}
+.card4 img{
+    width: 30vw;
+    height: 30vh;
+    border-radius: 5%;
+}
+.card4 h4{
+    color: brown;
+    margin-top: 3%;
+}
+.card4 p{
+    margin-top: 3%;
+    line-height: 2;
+}
+.card5{
+    border: solid brown;
+    border-radius: 3%;
+}
+.card5 img{
+    width: 36vw;
+    height: 30vh;
+    border-radius: 5%;
+}
+.card5 h4{
+    color: brown;
+    margin-top: 2%;
+}
+.card5 p{
+    margin-top: 2%;
+    line-height: 2;
+}
+.card6{
+    border: solid brown;
+    border-radius: 3%;
+}
+.card6 img{
+    width: 32vw;
+    height: 30vh;
+    border-radius: 5%;
+}
+.card6 h4{
+    color: brown;
+    margin-top: 2%;
+}
+.card6 p{
+    margin-top: 2%;
+    line-height: 2;
 }
