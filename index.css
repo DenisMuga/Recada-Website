@@ -86,12 +86,12 @@ a:hover{
 .Projects{
     margin-top: 5%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     column-gap: 10px;
 }
 .card4{
     border: solid brown;
-    border-radius: 3%;
+    border-radius: 15px;
 
 }
 .card4 img{
@@ -109,7 +109,7 @@ a:hover{
 }
 .card5{
     border: solid brown;
-    border-radius: 3%;
+    border-radius: 15px;
 }
 .card5 img{
     width: 36vw;
@@ -126,7 +126,7 @@ a:hover{
 }
 .card6{
     border: solid brown;
-    border-radius: 3%;
+    border-radius: 15px;
 }
 .card6 img{
     width: 32vw;
