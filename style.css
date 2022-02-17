@@ -71,7 +71,6 @@ span{
     height: 800px;
     width: 1200px;
     margin-left: 360px;
-    margin-top: 5%;
 }
 @-webkit-keyframes slide_animations{
     0% {left:0px;}
@@ -99,7 +98,7 @@ span{
     -webkit-animation-play-state: running;
 }
 .image-container{
-    height: 600px;
+    height: 100px;
     width: 800px;
     position: relative;
     float: left;
