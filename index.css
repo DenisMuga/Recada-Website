@@ -75,7 +75,8 @@ a:hover{
 }
 .Projects-Section {
     margin-top: 5%;
-    background-color: lightskyblue;
+    background-color: rgba(201, 224, 238, 0.911);
+    opacity: 1;
 
 }
 .Projects-Section h1{
@@ -95,7 +96,7 @@ a:hover{
 }
 .card4 img{
     width: 30vw;
-    height: 30vh;
+    height: 40vh;
     border-radius: 5%;
 }
 .card4 h4{
@@ -112,7 +113,7 @@ a:hover{
 }
 .card5 img{
     width: 36vw;
-    height: 30vh;
+    height: 40vh;
     border-radius: 5%;
 }
 .card5 h4{
@@ -129,7 +130,7 @@ a:hover{
 }
 .card6 img{
     width: 32vw;
-    height: 30vh;
+    height: 40vh;
     border-radius: 5%;
 }
 .card6 h4{
