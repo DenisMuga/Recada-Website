@@ -156,6 +156,7 @@ input[type=text], select, textarea {
 .Partners{
     margin-top: 5%;
     background-color: rgb(245, 222, 222);
+    height: 50vh;
 
 }
 .Partners h1 {
@@ -166,7 +167,14 @@ input[type=text], select, textarea {
     text-align: center;
     margin-top: 3%;
     color: purple;
-
+    margin-bottom: 3%;
+}
+.MoreLinks{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    line-height: 2;
+    color: brown;
 }
 
 
