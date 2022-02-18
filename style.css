@@ -176,6 +176,17 @@ input[type=text], select, textarea {
     line-height: 2;
     color: brown;
 }
+.Footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(245, 222, 222);
+    height: 5vh;
+}
+.SocialMedia{
+cursor: pointer;
+
+   
+}
 
 
   /* button2{
