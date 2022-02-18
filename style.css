@@ -142,6 +142,30 @@ input[type=text], select, textarea {
     margin-top: 3%;
     font-weight: bolder;
     color: brown;
+}
+.PartnerList{
+    margin-top: 3%;
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.PartnerList img{
+    width: 20vw;
+    height: 20vh;
+}
+.Partners{
+    margin-top: 5%;
+    background-color: rgb(245, 222, 222);
+
+}
+.Partners h1 {
+    text-align: center;
+    color: brown;
+}
+.Partners p{
+    text-align: center;
+    margin-top: 3%;
+    color: purple;
 
 }
 
