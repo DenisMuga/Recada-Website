@@ -62,17 +62,28 @@ span{
     color: brown;
     text-align: center;
 }
- .image-container img{
-    width: 100%;
-    height: 100vh;
-}
 .Gallery-pics{
-    overflow: hidden;
-    height: 800px;
-    width: 1200px;
-    margin-left: 360px;
+    margin-top: 2%;
+    display: flexbox;
+    justify-content: space-around;
+    /* float: left; */
+    column-count: 3;
+    align-content: center;
 }
-@-webkit-keyframes slide_animations{
+ .image-container img{
+    width: 30vw;
+    height: 30vh;
+    margin-top: 30px; 
+}
+.description{
+    text-align: center;
+    color:brown;
+    margin-top: 2%;
+    font-weight: bold;
+    line-height: 2;
+}
+
+/* @-webkit-keyframes slide_animations{
     0% {left:0px;}
     10% {left:0px;}
     20% {left:1200px;}
@@ -85,8 +96,8 @@ span{
     90% {left:0px;}
     100% {left:0px;}
 
-}
-.Gallery-pics{
+} */
+/* .Gallery-pics{
     width: 3600px;
     height: 800px;
     margin: 0 0 0 -2400px;
@@ -96,10 +107,5 @@ span{
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-direction: alternate;
     -webkit-animation-play-state: running;
-}
-.image-container{
-    height: 100px;
-    width: 800px;
-    position: relative;
-    float: left;
-}
+} */
+
