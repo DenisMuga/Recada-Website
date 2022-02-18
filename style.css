@@ -1,0 +1,220 @@
+.Leadership{
+    background-color: rgb(245, 222, 222);
+}
+
+.Leadership h1{
+    margin-top: 5%;
+    text-align: center;
+    color: brown;
+}
+.Leaders{
+    display: inline-block;
+    justify-content: space-between;
+    margin-top: 5%;
+    line-height: 2;
+}
+.card7, .card8, .card9{
+    display: flex;
+}
+.card7 img{
+    width: 40vw;
+    height: 50vh;
+    border-radius: 50%;
+}
+.card7 p{
+    background: rgb(148, 179, 247);
+    border-radius: 15px;
+    color: brown;
+    height: 20vh;
+    margin-top: 7%;  
+}
+.card8 img{
+    width: 40vw;
+    height: 50vh;
+    border-radius: 50%;
+}
+.card8 p{
+    background: rgb(148, 179, 247);
+    border-radius: 15px;
+    color: brown;
+    height: 20vh;
+    margin-top: 8%;
+    column-gap: 10%;
+}
+.card9 img{
+    width: 40vw;
+    height: 50vh;
+    border-radius: 50%;
+}
+.card9 p{
+    background: rgb(148, 179, 247);
+    border-radius: 15px;
+    color: brown;
+    height: 20vh;
+    margin-top: 8%;
+}
+span{
+    font-size: 30px;
+    color: maroon   ;
+}
+.Events h1{
+    margin-top: 5%;
+    color: brown;
+    text-align: center;
+}
+.Gallery-pics{
+    margin-top: 2%;
+    display: flexbox;
+    justify-content: space-around;
+    /* float: left; */
+    column-count: 3;
+    align-content: center;
+}
+ .image-container img{
+    width: 30vw;
+    height: 30vh;
+    margin-top: 30px; 
+}
+.description{
+    text-align: center;
+    color:brown;
+    margin-top: 2%;
+    font-weight: bold;
+    line-height: 2;
+}
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    display: inline-block;
+    width: 100%; /* Full width */
+    padding: 20px; /* Some padding */ 
+    border: 2px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical Allow the user to vertically resize the textarea (not horizontally)
+    
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: brown;
+    color: white;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 300px;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: purple;
+  }
+  .Contact-pg{
+      margin-top: 5%;
+      background-color: rgb(245, 222, 222);
+  }
+  .Contact-pg h1{
+      text-align: center;
+      color: brown;
+  }
+  .Contact-pg h3{
+      color: brown;
+  }
+  .form-section{
+      margin-top: 3%;
+  }
+  .Subscription{
+    height: 15vh;
+    margin-top: 5%;
+    display: flex   ;
+    background: linear-gradient(rgb(241, 163, 163), rgb(241, 70, 70));
+    justify-content: space-evenly;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+.Subscriting h1{
+    text-align: center;
+    color: brown;
+    margin-top: 5%;
+}
+.Subscriting p{
+    margin-top: 3%;
+    font-weight: bolder;
+    color: brown;
+}
+.PartnerList{
+    margin-top: 3%;
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.PartnerList img{
+    width: 20vw;
+    height: 20vh;
+}
+.Partners{
+    margin-top: 5%;
+    background-color: rgb(245, 222, 222);
+    height: 50vh;
+
+}
+.Partners h1 {
+    text-align: center;
+    color: brown;
+}
+.Partners p{
+    text-align: center;
+    margin-top: 3%;
+    color: purple;
+    margin-bottom: 3%;
+}
+.MoreLinks{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    line-height: 2;
+    color: brown;
+}
+.Footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(245, 222, 222);
+    height: 5vh;
+}
+.SocialMedia{
+cursor: pointer;
+
+   
+}
+
+
+  /* button2{
+      padding: 30px;
+  } */
+/* @-webkit-keyframes slide_animations{
+    0% {left:0px;}
+    10% {left:0px;}
+    20% {left:1200px;}
+    30% {left:1200px;}
+    40% {left:2400px;}
+    50% {left:2400px;}
+    60% {left:1200px;}
+    70% {left:1200px;}
+    80% {left:0px;}
+    90% {left:0px;}
+    100% {left:0px;}
+
+} */
+/* .Gallery-pics{
+    width: 3600px;
+    height: 800px;
+    margin: 0 0 0 -2400px;
+    position: relative;
+    -webkit-animation-name: slide_animations;
+    -webkit-animation-duration: 33s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-play-state: running;
+} */
+
