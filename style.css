@@ -1,5 +1,5 @@
 .Leadership{
-    background-color: rgb(247, 220, 220);
+    background-color: rgb(245, 222, 222);
 }
 
 .Leadership h1{
@@ -113,6 +113,7 @@ input[type=text], select, textarea {
   }
   .Contact-pg{
       margin-top: 5%;
+      background-color: rgb(245, 222, 222);
   }
   .Contact-pg h1{
       text-align: center;
